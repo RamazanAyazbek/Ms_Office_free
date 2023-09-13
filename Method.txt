@@ -1,0 +1,12 @@
+in browser 
+office deployment tool
+
+and go into and download office.
+and save to new file 
+open power shell "shift+right btn mouse"
+put this code and run
+.\setup.exe /configure .\configuration-Office2021Enterprise.xml
+
+
+youtube video link:
+https://www.youtube.com/watch?v=RcXx546Brf0
